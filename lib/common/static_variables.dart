@@ -19,9 +19,23 @@ class StaticVar {
 
   static const double defaultRadius         = 15;
 
-  static const double defaultSeparateHights = 1;
+  static const double defaultSeparateHights = 1; 
 
   static const double defaultMargin         = 3;
+
+
+  static const double productTitleFontSize          = 12;
+
+  static const double productSubtitleFontSize       = 10;
+
+  static const FontWeight productTitleFontWeight    = FontWeight.w800;
+
+  static const FontWeight productSubtitleFontWeight = FontWeight.w500;
+
+
+
+
+
 
 
 
