@@ -30,12 +30,9 @@ class CustomContainer extends StatelessWidget {
            spreadRadius: 0,
            blurRadius: 25,
            color: Color.fromRGBO(0, 0, 0, 0.09)
-             )
-            ],
-      ),
-
+             )],
+           ),
           child: child,
-
     );
   }
 }
