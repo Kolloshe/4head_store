@@ -7,7 +7,7 @@ class StaticVar {
 
   static const Color whiteColor  =  Color.fromARGB(255, 241, 241, 241);
 
-  static const Color garyColor   =  Color.fromARGB(255,241, 241, 241);
+  static const Color garyColor   =  Color.fromARGB(255, 187, 187, 187);
 
   static const Color orangeColor =  Color.fromARGB(255,252, 151, 95);
 
@@ -15,13 +15,18 @@ class StaticVar {
 
 
 
-  static const double defaultPadding        = 10;
+  static const double defaultPadding         = 10;
 
-  static const double defaultRadius         = 15;
+  static const double defaultRadius          = 15;
 
-  static const double defaultSeparateHights = 1; 
+  static const double defaultSeparateHeights = 1;
 
-  static const double defaultMargin         = 3;
+  static const double defaultMargin          = 3;
+
+
+  static const double titleFontSize      = 13;
+
+  static const double subtitleFontSize   = 11;
 
 
   static const double productTitleFontSize          = 12;
@@ -31,6 +36,9 @@ class StaticVar {
   static const FontWeight productTitleFontWeight    = FontWeight.w800;
 
   static const FontWeight productSubtitleFontWeight = FontWeight.w500;
+
+
+  static const defaultIconPath = "assets/icon/";
 
 
 

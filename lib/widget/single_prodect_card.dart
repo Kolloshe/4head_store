@@ -50,6 +50,6 @@ class SingleProductCard extends StatelessWidget {
     ));
   }
 
-  Widget _buildSpacer()=> SizedBox(height: StaticVar.defaultSeparateHights.h);
+  Widget _buildSpacer()=> SizedBox(height: StaticVar.defaultSeparateHeights.h);
 
 }
